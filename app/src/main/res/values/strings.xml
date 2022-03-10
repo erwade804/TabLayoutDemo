@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tab Layout Demo #1</string>
+    <string name="fragment_id">#</string>
+</resources>
